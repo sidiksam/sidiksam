@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ A little about Me
+ 
+ 
+I'm Abu Bakarr Samura
+ 
+🔭  I’m currently working on becoming a full-stack developer.
+ 
+💬   Ask me about anything tech related, I am happy to help;
+ 
+🌱  I’m learning Ruby & Rails at Microverse
+ 
+👯 I'm open to new job opportunities and open source projects.
+ 
+⚡ Fun fact: I watched football games and movies when I'm not coding 😊
+ 
+📫 How to reach me: Linkedin LinkedIn
+GitHub GitHub
+🔨 My Technologies, frameworks, and Languages:
+✔ HTML5
+ 
+✔ CSS
+ 
+✔ Javascript
+ 
+✔ Tailwind CSS
+ 
+✔ REACT
+ 
+😄 Pronouns: Mr
+ 
+✌Please stay tuned for more updates.
+ 
+🌹Thank you.
+ 
+
