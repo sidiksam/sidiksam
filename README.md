@@ -24,7 +24,7 @@ I'm Abu Bakarr Samura
  
 💬   Ask me about anything tech related, I am happy to help;
  
-🌱  I’m learning Ruby & Rails at Microverse
+🌱  I’m learning Ruby & Rails at ![](https://img.shields.io/badge/Microverse-blueviolet)
  
 👯 I'm open to new job opportunities and open source projects.
  
